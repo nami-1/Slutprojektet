@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpGA7HYfM0+pj2fpZoZ2TUE4ycG28HwsXRkvfm7vu4WGkMxBjarf3psi2UvxuTKjWGOxtzPOLoZsL/aiZ9ODVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\namith.muttharamar1\\Documents\\Programmering\\Slutprojektet\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namith.muttharamar1\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\namith.muttharamar1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
