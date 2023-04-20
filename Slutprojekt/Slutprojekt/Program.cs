@@ -176,7 +176,7 @@ while (!Raylib.WindowShouldClose()) //a loop that will continue running until th
         Raylib.DrawTexture(menyy, 0, 0, Color.WHITE);
         Raylib.DrawText("WELCOME TO SHOOT GOOMBA", 100, 250, 40, Color.BLACK);
         Raylib.DrawText("Use A and D to move and SPACE to shoot", 100, 450, 25, Color.BLACK);
-        Raylib.DrawText("Copyright © Nami", 5, 575, 20, Color.BLACK);
+        Raylib.DrawText("Press ENTER to play", 5, 575, 20, Color.BLACK);
     }
 
 
